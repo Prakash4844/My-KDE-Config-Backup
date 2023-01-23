@@ -1,0 +1,27 @@
+Head:
+EndeavourOS Neon Kurumi 23-01-23
+
+Body:
+
+This is Konsave exported file of my profile "EndeavourOS Neon Kurumi" Dated on 23-1-23
+
+This contains Following Settings:
+1. Global Theme: Endeavour OS Breeze Dark
+2. Application Style: Breeze
+3. Plasma Style: Gently Color Plasma
+4. Color: Carl
+5. Windows Decoration: Utterly Round
+6. Font: Default
+7. Icon: Beauty Lines
+8. Cursor: Sweet Cursors
+9. Launch Feedback: Bouncing, Task Manager: Enable Animation, Stop Animation after: 3 Sec
+10. Font Management Default
+11. Splash Screen: Arch
+
+Desktop Effect:
+Windows Open/Close animation: Wisp(Burn My  windows)
+
+Login Screen:
+Super Candy with [Kurumi Image](https://www.itl.cat/wallview/ibxRTm_kurumi-tokisaki-anime-girls-with-black-hair-and/)
+
+Wallpaper: [Kurumi Neon](https://w.wallha.com/ws/13/brLnMTZI.png)
