@@ -7,7 +7,7 @@ KDE Configs in Order of Release:
 
 ## 3. KDE-Sur
 
-![image](https://user-images.githubusercontent.com/81550376/235369050-ed717b4c-5554-4e6a-9f9f-00a69d8ac56a.png)
+![image](https://user-images.githubusercontent.com/81550376/235369328-3ef9e685-94a4-4418-a224-2524f765dd73.png)
 
 [Get Here](https://github.com/Prakash4844/My-KDE-Config-Backup/releases/tag/v1.2)
 
